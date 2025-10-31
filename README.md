@@ -1,1 +1,1 @@
-"# Data-Cleaning-And-Mine-Vs-Rock-prediction-using-Logistic-Regression" 
+"# Diabetes-prediction-using-SVM" 
